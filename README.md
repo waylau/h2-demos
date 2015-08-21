@@ -1,5 +1,7 @@
 # h2-demos
-Demos of  H2 Database Engine. 有关 H2 数据库的示例
+Demos of  H2 Database Engine. 有关 H2 数据库的示例.
+
+本项目所有示例均使用 Maven 项目管理。
 
 ## How to 如何使用
 
@@ -11,9 +13,11 @@ Demos of  H2 Database Engine. 有关 H2 数据库的示例
 
 本例 IDE 为 eclipse
 
+![](how to.jpg)
+
 ### Run as Java Application 以 Java 程序运行示例
 
-![](how to.jpg)
+![](run as.jpg)
 
 ## Furhter Reading 延伸阅读
 
